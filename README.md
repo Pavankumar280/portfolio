@@ -1,7 +1,7 @@
 Personal Portfolio Website
 A responsive and visually appealing personal portfolio website to showcase my projects, skills, and contact information. Built with HTML, CSS, and JavaScript, the site is designed for smooth navigation, interactive features, and modern user experience.
 
-🔗 Live Demo: View Portfolio
+🔗 Live Demo: https://portfolio-lqch60tti-pavankumars-projects-141f3a43.vercel.app/
 
 ✨ Features
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
@@ -29,7 +29,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Pavankumar280/portfolio.git
 Navigate to project folder
 
 bash
